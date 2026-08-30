@@ -1,0 +1,16 @@
+station_id,station_code,station_name,latitude,longitude
+1,MMCT,Mumbai Central,18.9696,72.8193
+2,BVI,Borivali,19.2291,72.8573
+3,ST,Surat,21.2049,72.8407
+4,BRC,Vadodara Junction,22.3113,73.1812
+5,RTM,Ratlam Junction,23.3323,75.0543
+6,KOTA,Kota Junction,25.2144,75.8770
+7,MTJ,Mathura Junction,27.4870,77.6713
+8,NDLS,New Delhi,28.6429,77.2191
+9,SDAH,Sealdah,22.5694,88.3713
+10,HWH,Howrah,22.5833,88.3436
+11,CSMT,Mumbai CSMT,18.9398,72.8354
+12,SBC,KSR Bengaluru,12.9782,77.5695
+13,MAS,Chennai Central,13.0827,80.2707
+14,BPL,Bhopal,23.2599,77.4126
+15,RKMP,Rani Kamlapati,23.2166,77.4333

@@ -1,0 +1,11 @@
+train_id,train_number,train_name,origin,destination,type
+1,12951,Rajdhani Express,Mumbai Central,New Delhi,Rajdhani
+2,12952,Mumbai Central Rajdhani,New Delhi,Mumbai Central,Rajdhani
+3,12002,Bhopal Shatabdi,New Delhi,Rani Kamlapati,Shatabdi
+4,12423,Dibrugarh Rajdhani,New Delhi,Dibrugarh,Rajdhani
+5,12259,Sealdah Duronto,Sealdah,Bikaner,Duronto
+6,12301,Howrah Rajdhani,Howrah,New Delhi,Rajdhani
+7,12810,Howrah Mail,Mumbai CSMT,Howrah,Mail/Express
+8,12137,Punjab Mail,Mumbai CSMT,Firozpur,Mail/Express
+9,12627,Karnataka Express,KSR Bengaluru,New Delhi,Superfast
+10,12615,Grand Trunk Express,Chennai Central,New Delhi,Superfast
